@@ -18,7 +18,7 @@ let sith =
     },
     {
         "name": "Darth Maul",
-        "photo": 'https://www.google.com/?sa=i=images&cd=&ved=2ahUKEwishO2XzsHiAhXQ6Z4KHd3CB5EQjRx6BAgBEAU&url=https%3A%2F%2Fwww.businessinsider.com%2F15-reasons-darth-maul-is-a-better-star-wars-villain-than-darth-vader-2017-8&psig=AOvVaw3kMyVkZUCfbGiyB3E2RarX&ust=1559249220317334',
+        "photo": 'https://www.liveabout.com/thmb/T-foF53EdYnEDIHHnSO3HtzzQ9w=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/EP1-IA-48553_R_8x10-56a83a203df78cf7729d27de.jpg',
         "scores": [
             1,
             1,
@@ -49,3 +49,5 @@ let sith =
         ]
     },
 ]
+
+module.exports = sith;
