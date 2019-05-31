@@ -2,7 +2,7 @@ let sith =
 [
     {
         "name": "Darth Vader",
-        "photo": 'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwillMfHzcHiAhVCsp4KHV_cCP4QjRx6BAgBEAU&url=http%3A%2F%2Fdadfeelings.com%2Fepisode%2F1&psig=AOvVaw3PoNpuirN1Es1rfV6R8Khc&ust=1559249019270113',
+        "photo": 'https://cdn.vox-cdn.com/thumbor/jhj4RKFtuxibuv2nSPL2nl1Y0Tk=/0x0:612x306/920x613/filters:focal(231x79:327x175):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/52403587/vaderrogueone.0.jpeg',
         "scores": [
             5,
             5,
@@ -34,7 +34,7 @@ let sith =
     },
     {
         "name": "Darth Sideous",
-        "photo": 'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwicjebDzsHiAhVDjp4KHfGvB80QjRx6BAgBEAU&url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FDarth_Sidious&psig=AOvVaw3BZR8nxVPBmpMjKRYLWFUA&ust=1559249319046675',
+        "photo": 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/palpatine-2-1539176362.jpg?crop=0.668xw:1.00xh;0.0969xw,0&resize=768:*',
         "scores": [
             3,
             3,
